@@ -1,5 +1,5 @@
-<img src="./img/home1.png">
-<img src="./img/home2.png">
+<img src="./home1.png">
+<img src="./home2.png">
 
 Movies page developed with HTML, CSS, JavaScript and React.
 ### See the project: https://spilotes.github.io/Spiflix/
