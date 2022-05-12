@@ -1,3 +1,10 @@
+<img src="./img/home1.png">
+<img src="./img/home2.png">
+
+Light and Dark Mode page developed with HTML, CSS and JavaScript.
+### See the project: https://spilotes.github.io/Spiflix/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
